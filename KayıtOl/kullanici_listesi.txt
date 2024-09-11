@@ -1,0 +1,2 @@
+ahmet 12345 Erkek
+ayşe 123 Kadın
